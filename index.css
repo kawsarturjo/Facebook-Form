@@ -1,0 +1,87 @@
+.wrapper{
+	width: 32%;
+	margin: 0 auto;
+	border: 1px solid black;
+	margin-top: 80px;
+}
+.q1{
+	margin-top: 5px;
+	margin-left: 22px;
+	
+}
+.w1{
+	margin-top: -16px;
+	margin-left: 22px;
+}
+.wrapper_1{
+	border: 0.5px solid gray;
+}
+.name{
+	    font-size: 16px;
+    padding: 7px;
+    height: 20px;
+    margin-left: 22px;
+}
+.name_1{
+	margin-left: 13px;
+	font-size: 16px;
+    padding: 7px;
+    height: 20px;
+}
+.number_email, .password{
+	margin-top: 15px;
+	font-size: 16px;
+    padding: 7px;
+    height: 20px;
+    margin-left: 22px;
+    width: 425px;
+}
+.birth_1{
+	margin-top: 15px;
+	margin-left: 22px;
+    font-size: 12px;
+}
+select{
+	    font-size: 15px;
+    width: 100px;
+    height: 30px;
+}
+.birth_2{
+	margin-left: 22px;
+	
+}
+.t1{
+	    border: 1px solid black;
+    font-size: 15px;
+    width: 77px;
+    height: 23px;
+    padding-left: 27px;
+    margin-left: 22px;
+}
+.t_2{
+	margin-left: 22px;
+	margin-top: 15px;
+}
+.u1{
+	    font-size: 11px;
+    margin-left: 22px;
+}
+.n1{
+	font-size: 11px;
+    margin-left: 22px;
+    margin-top: 13px;
+}
+
+button{
+	font-size: 20px;
+    /* text-align: center; */
+    margin-left: 161px;
+    width: 160px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: forestgreen;
+    color: white;
+    border: none;
+    height: 35px;
+
+}
